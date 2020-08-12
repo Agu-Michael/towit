@@ -166,6 +166,7 @@ border:none;
     font-size: 1em;
     margin: 0 0.5em;
     color: #fff;
+    3
 }
 /*-- //w3layouts_header_mid--*/
 
@@ -1561,7 +1562,7 @@ h2.resp-accordion {
 	color:#fff;
 }
 .testimonial.agileits-w3layouts {
-    background: url(../images/t22.jpg) no-repeat 0px 0px;
+    background: url(../images/TP.jpeg) no-repeat 0px 0px;
     background-size: cover;
    min-height:500px;
 }
@@ -1740,8 +1741,23 @@ h2.resp-accordion {
     color: #ff9800;
 }
 /*-- Gallery --*/
-.gallery-grids img {
-    width: 100%;
+.gallery2-grids img {
+    width:450px;
+    height:300px;
+    margin:5px;
+    
+}
+.container2 {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    
+
+}
+.images{
+    width: 450px;
+    height: 300px;
+    
+    
 }
 .gallery-grids { 
 	padding: 0;
@@ -2902,9 +2918,18 @@ button.navbar-toggle {
 	}
 }
 
+.newbutton {
+    float: center;
+    width: 60%;
+    
+}
 
 
 
+
+.col-lg-8 { 
+background-color: white;
+}
 
 
 

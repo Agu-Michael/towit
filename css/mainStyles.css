@@ -5,6 +5,7 @@ body {
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
+
 #titleArea h1, #titleArea h2 {
     text-align: center;
     font-size: 72px;
@@ -22,6 +23,13 @@ body {
     #titleArea h2 {
         font-size: 28px;
     }
+    
+.newbutton {
+    float: center;
+    width: 60%;
+    
+}
+
 }
 .sectBtn{
     padding:12px;
